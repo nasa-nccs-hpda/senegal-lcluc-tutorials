@@ -13,6 +13,7 @@ Tutorial and workshop materials for the Senegal LCLUC Field Campaign
 - [EVHR](https://github.com/nasa-nccs-hpda/evhr)
 - [SRLite](https://github.com/nasa-nccs-hpda/srlite)
 - [Tensorflow Caney](https://github.com/nasa-nccs-hpda/tensorflow-caney)
+- [Senegal LCLUC](https://github.com/nasa-nccs-hpda/senegal-lcluc-tensorflow)
 - [Image Cluster](https://github.com/nasa-nccs-hpda/ImageCluster)
 - [EO Validation](https://github.com/nasa-nccs-hpda/eo-validation)
 
