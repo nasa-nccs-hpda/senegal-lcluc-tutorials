@@ -30,6 +30,7 @@ To use GEE in Colab for large scale jobs, you will need to setup a [Google Cloud
 
 | Lecture Topic | Interactive Link |
 |---|---|
+| **WorldView Training Pipeline** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/notebooks/TrainingPipeline.ipynb) |
 | **GEE CNN Tutorial** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/notebooks/Earth_Engine_TensorFlow_DNN_from_scratch.ipynb) |
 | **GEE Pretrained CNN** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/notebooks/Earth_Engine_TensorFlow_tree_counting_model.ipynb) |
 
