@@ -24,18 +24,12 @@ Tutorial and workshop materials for the Senegal LCLUC Field Campaign
 |---|---|
 | **ML Algorithms Introduction** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session1/1-ML-Algorithms-Introduction-Session1.ipynb) |
 
-### Deep Learning Fundamentals
-
-
-
 ### Deep Learning Pipelines
 
 | Lecture Topic | Interactive Link |
 |---|---|
-| **ImageCluster** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NASAARSET/ARSET_ML_Fundamentals/blob/main/session1/1-ML-Algorithms-Introduction-Session1.ipynb) |
-| **CNN Pipeline WorldView** | |
-| **CNN Inference WorldView** | |
-| **CNN Inference Planet** | | 
+| **GEE CNN Tutorial** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/notebooks/Earth_Engine_TensorFlow_DNN_from_scratch.ipynb) |
+| **GEE Pretrained CNN** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/notebooks/Earth_Engine_TensorFlow_tree_counting_model.ipynb) |
 
 ## Additional References
 
