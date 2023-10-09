@@ -26,6 +26,8 @@ Tutorial and workshop materials for the Senegal LCLUC Field Campaign
 
 ### Deep Learning Pipelines
 
+To use GEE in Colab for large scale jobs, you will need to setup a [Google Cloud bucket](https://cloud.google.com/storage/docs/creating-buckets).
+
 | Lecture Topic | Interactive Link |
 |---|---|
 | **GEE CNN Tutorial** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/notebooks/Earth_Engine_TensorFlow_DNN_from_scratch.ipynb) |
