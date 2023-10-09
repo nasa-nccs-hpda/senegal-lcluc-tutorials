@@ -30,10 +30,10 @@ To use GEE in Colab for large scale jobs, you will need to setup a [Google Cloud
 
 | Lecture Topic | Interactive Link |
 |---|---|
-| **WorldView Training Pipeline** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/notebooks/TrainingPipeline.ipynb) |
-| **Data Download Planet** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/notebooks/Data_DownloadPlanet.ipynb)
-| **GEE CNN Tutorial** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/notebooks/Earth_Engine_TensorFlow_DNN_from_scratch.ipynb) |
-| **GEE Pretrained CNN** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/notebooks/Earth_Engine_TensorFlow_tree_counting_model.ipynb) |
+| **WorldView Training Pipeline** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/blob/main/notebooks/TrainingPipeline.ipynb) |
+| **Data Download Planet** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/blob/main/notebooks/Data_DownloadPlanet.ipynb)
+| **GEE CNN Tutorial** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/blob/main/notebooks/Earth_Engine_TensorFlow_DNN_from_scratch.ipynb) |
+| **GEE Pretrained CNN** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nasa-nccs-hpda/senegal-lcluc-tutorials/blob/main/notebooks/Earth_Engine_TensorFlow_tree_counting_model.ipynb) |
 
 ## Additional References
 
